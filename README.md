@@ -5,7 +5,7 @@ lthash
 [![Go Report Card](http://goreportcard.com/badge/lukechampine.com/lthash)](https://goreportcard.com/report/lukechampine.com/lthash)
 
 ```
-go get lukechampine.com/lthash
+go get github.com/wonabru/lthash
 ```
 
 This repo contains an implementation of LtHash, as
